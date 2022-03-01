@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a disbanded courtier. Dedicated to the author of that famous speech, call'd, The speech of a noble peer. / By a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01985</idno>
+            <idno type="STC">Wing C1970A</idno>
+            <idno type="STC">ESTC R175705</idno>
+            <idno type="EEBO-CITATION">52614556</idno>
+            <idno type="OCLC">ocm 52614556</idno>
+            <idno type="VID">175791</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175791)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2751:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a disbanded courtier. Dedicated to the author of that famous speech, call'd, The speech of a noble peer. / By a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>re-printed in the year,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, with slight loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683. --  Speech of a noble peer of this realm, made in the reign of King Charles II.</term>
+               <term>Montfort, Simon de, --  Earl of Leicester, 1208?-1265.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1683 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:175791:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>THE CHARACTE<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>OF A</hi> Disbanded Cour<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>.</head>
+            <head type="sub">Dedicated to the Author of that Famous Speech, call'd, <hi>The Speech of a Noble Peer.</hi>
+            </head>
+            <byline>By a Perſon of Quality.</byline>
+            <p>HE was Born of a conſiderable Family, Heir to a Fortune above contemptible; but with an aſpiring mind, by much too high flown for his Quality, and his Eſtate.</p>
+            <p>His Behavior towards his King was ſo Loyal in times of difficulty and danger, that every body who knew him, knew he deſerv'd Ad<g ref="char:EOLhyphen"/>vancement; advancement at leaſt as high as that of <hi>Haman.</hi>
+            </p>
+            <p>His dexterity in doing ill, made him thought capable of perform<g ref="char:EOLhyphen"/>ing admirably well, if ever he came to be publ<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly employ'd and entruſted.</p>
+            <p>So he was prefer'd for his Ability, to the higheſt places of Honour and Office; admitted into the Cabinet-Councils, made acquainted with all the Secret Wheels, and could tell how many Cogs there were in each wheel, upon which the great Engine of State was tur<g ref="char:EOLhyphen"/>ned, and kept in motion.</p>
+            <p>By the Favor of his Prince he acquired ſufficient Riches, to ſup<g ref="char:EOLhyphen"/>port the ſplendor of a Family, new rais'd to the degree of Nobility.</p>
+            <p>His Glory was once ſo eminently conſpicuous, that there were but a few perſons below the Crown, <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eem'd above him, and nothing was wanting to render his Felicity as laſting a<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nature intended his Life; but a heart that knew how to be grateful, to a moſt Mu<g ref="char:EOLhyphen"/>nificent Benefactor.</p>
+            <p>He thought all the Favours, and Honours, he enjoyed, were leſs then the reward of his Merit; that thought puff'd him up with pride, ſuch a ſort of pride, as is uſually attended with an irrecoverable fall, which was his Fortune, and at his fall, (like that of <hi>Lucifer,</hi> his Predeceſſor) migh very well have been proclaim'd, <hi>Wo to you the
+<pb n="2" facs="tcp:175791:2"/>
+                  <!-- PDF PAGE 5 -->
+Inhabitants of the earth,</hi> for the Devil is come down among you<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Open revenge againſt his Sovereign, being too dangerous to <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tempt, he preſently reſolves upon ſecret, he expoſes all the We<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſſes and Infirmities of the Court; (from which no Court, or Ci<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or Country. is, or will ever be free,) and where he can find <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> real faults he feigns imaginary ones, and paſſes them off for <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rant.</p>
+            <p>By his new and falſe Optic, he repreſents every Mole-hill of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtake, in the publick adminiſtration, for a Mountain as tall as <hi>T<gap reason="illegible: in gutter" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>riff,</hi> and as dangerous as the top of <hi>Aetna;</hi> nay, he Multiplies, a<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Magnifies, the very miſcarriages, which were the effect of his o<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> evil Council.</p>
+            <p>He amuſes the freeſt Nation in the Univerſe, with wild rumou<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and extravagant apprehenſions of Slavery; under the Governm<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of a Prince, who in Acts of Favor, and Mercy, and Clemency, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> exceeded all his Predeceſſors.</p>
+            <p>He fills the heads of the People full, with whimſical Fears, of ph<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>taſtick Devils, <hi>Chymera</hi>'s, which only his Malice had rais'd, on p<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>poſe to frighten them out of their Loyalty, and their Wits, a<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap> prepare and ripen them, for Bedlam, or Rebellion.</p>
+            <p>He makes the pretences of Liberty, the Stirrup to get up, <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Religion the Steed he Rides, in purſuite of his Monſtrous <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſigns.</p>
+            <p>With theſe pretences he cheats the Innocent, (after tickling t<gap reason="illegible: in gutter" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Fancies with the Feather of Ambition) and promiſing to o<gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> their Eyes, ſerves them as the Apoſtate Angel did our Parents in <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>radice, only blows into them the Duſt of Diſobedience, and <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> robs them <gap reason="illegible: in gutter" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>  Jewels he undertook to beſtow, <hi>(viz.)</hi> Liber<gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <note n="*" place="bottom">Liberty is not a Freedom for every man to do what he pleaſes; <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a freedom would impower the worst part of Mankind to Ruine, and ſlave the beſt. Just Laws, well executed, are the trueſt Liberties of Men, and ſhould be the outmoſt extent of their wiſhes.</note> and Religion,<note n="†" place="bottom">Religion does not conſiſt in the stubborn adhering to a Faction, <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in crying up one <hi>Party</hi> or Profeſſion as Infallible, and Cenſuring all <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as Damnable; but in doing Juſtice, and loving Mercy, and walking <gap reason="illegible: in gutter" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bly with God, ſayes <hi>Malachi</hi> the Prophet. And it is firſt Pure, then P<gap reason="illegible: in gutter" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>able, ſayes St. <hi>Paul</hi> the Apoſtle.</note> which are both ſo much talk'd of, and bot<gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap> little underſtood.</p>
+            <p>
+               <pb n="3" facs="tcp:175791:2"/>
+               <!-- PDF PAGE 5 -->
+Being a Gentleman of no Religion himſelf, he ſeems for all that to Eſpouſe every Diviſion, and Sub-diviſion of it; every Faction, and Perſon, who are bold enough to ſtand ſtiff in oppoſition to the <hi>Ancient</hi> and <hi>Well ſettled Government.</hi>
+            </p>
+            <p>If he be by Inclination Covetous, and temperate by Nature and Habit; he rather chuſes to invert Nature it ſelf, than ſuffer a diſap<g ref="char:EOLhyphen"/>pointment in his Deſigns of <hi>Revenge</hi> to which he makes a Sacrifice at once, both of his Vertues and his Vices.</p>
+            <p>He keeps open houſe for Entertainment of all State-Male-Contents, without conſideration of Quality or Qualifications.</p>
+            <p>He Accompanies and Carrowſes, and Contracts Intimacy and Amity, with the lewdeſt Debauchees in all the Nation, that he thinks, will any ways help to forward his private Intrigues.</p>
+            <p>He becomes all things, to all men, in the very worſt of ſenſes: perverting the deſign of St. <hi>Paul,</hi> that he may at leaſt prevail upon ſome, to be as bad as himſelf.</p>
+            <p>Nor are ſoft and eaſie men by him only deluded, he is too cunning for the very Lawers themſelves, (tho they are too cunning for all the reſt of mankind) a moſt Eminent <hi>Attorney,</hi> and a famous <hi>Soli<g ref="char:EOLhyphen"/>citor,</hi> and a Reverend <hi>Judge,</hi> are not free from the force of his In<g ref="char:EOLhyphen"/>chantments.</p>
+            <p>By the Subtilty of his Inſinuations, he bewitches to Aſſociate with him, great part of the New, and of the Sons of the old Nobility: the Sons of ſuch <hi>Fathers,</hi> as died in the faithful Defence of their ſuffering Soveraign.</p>
+            <p>He Deceives (beſides a number of other great Men, and great Councellors) a <hi>General</hi> of an Army, a <hi>Vice-Roy</hi> of a Kingdom, a <hi>Darling</hi> of the People, and a <hi>Son</hi> to the Greateſt, and the beſt of <hi>Fathers</hi> upon Earth.</p>
+            <p>He would fain be reputed as conſtant as the <hi>Sun;</hi> and yet this Age has produced nothing beneath the <hi>Moon,</hi> more ficle and vari<g ref="char:EOLhyphen"/>able, for he never was, and 'tis like never will be true to any thing, ſave only the Eternal Reſolution of doing Miſchief.</p>
+            <p>Having loſt his Honour with his <hi>Prince,</hi> and the good Opinion of the beſt Subjects and beſt Men; he cringes and creeps, and ſneaks to the meaneſt and baſeſt of the People, to procure himſelf among them, an Empty and vain-glorious, becauſe undeſerved Name: the <hi>Patriot</hi> of his Countrey.</p>
+            <p>And hoping to be ſhortly made, the little Head of the <hi>Great Rabble:</hi> he would perſwade them to believe that they are all betray'd; and that the King himſelf is in the <hi>Plot</hi> againſt himſelf; as well as in the <hi>Plot</hi> againſt them.</p>
+            <p>He Encourages them to ſtrike home, againſt thoſe whom he calls the Enemies of the King and Kingdom: (pointing at the Faithful-leſt and moſt affectionate Servants to both) well knowing that th<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mighty <hi>Fabrick</hi> can never be ſhaken; till its main Pillars and Suppor<g ref="char:EOLhyphen"/>ters, be by cunning and ſly Stratagem, either deſtroy'd or under<g ref="char:EOLhyphen"/>mined.</p>
+            <p>
+               <pb n="4" facs="tcp:175791:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->
+At laſt, through the <hi>Divine Providence,</hi> the Magical Miſt he had caſt before mens eyes, diſſipates, and totally vaniſhes.</p>
+            <p>The Hypocritical vail falls off, of its own accord, leaving his de<g ref="char:EOLhyphen"/>formity naked, and openly expoſed.</p>
+            <p>His dearly beloved Miſtreſs <hi>Popular Applauſe</hi> forſakes him, and to compleat his undoing, he lives to ſee the Death and Burial of his <hi>Fame:</hi> even to the very Fame of his <hi>Polities.</hi>
+            </p>
+            <p>So that nothing remains to yield him Conſolation, after ſuch ſen<g ref="char:EOLhyphen"/>ſible and biting Diſgraces; but only the Liberty he has left him, to follow the great Example of King <hi>David</hi>'s defeated <hi>Politition.</hi>
+            </p>
+         </div>
+         <div type="postscript_to_the_printer">
+            <head>
+               <hi>POSTSCRIPT</hi> to the Printer.</head>
+            <p>IF you be curious to know who is meant by this Character; you may eaſily imagine, 'tis <hi>Simon de Montford</hi> Earl of <hi>Leiceſter:</hi> in whoſe time the Wood Parliament Sate at <hi>Weſtminſter.</hi>
+            </p>
+            <p>He' was one while a Prime Favourite of the King, one while the meer Idol of the People; ſometimes a Rebell, and alwayes a Rogue.</p>
+            <p>However, If any man now alive, claim a Propriety in any part of the Character, you may tell him, the Author is a peaceable Perſon, and rather then stand a Suit at Law, let every one take what part he calls his own, and much good may it do him.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re-Printed in the year, 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
